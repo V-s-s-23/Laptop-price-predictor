@@ -26,3 +26,4 @@ Perfoming EDA to get insights from data.
 # Model Building:-
 Traditional Method -
 Used scikit-learn library for the Machine Learning tasks. Applied onehotencoder and converted the categorical variables into numerical ones.Then I splited the data into training and test sets with a test size of 20%. I tried three different models ( Linear,Ridge and Lasso Regression, Random Forest Regression) and evaluated them using Mean Absolute Error and r2_score.
+I also used pipeline and column transformer.
