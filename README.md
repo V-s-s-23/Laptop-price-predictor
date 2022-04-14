@@ -13,7 +13,9 @@
 
 .Memory - made different columns - hdd,sdd,hybrid,flashstorage.
 
-.Processor - Made columns for Name of the Processor, Type of the Processor, Generation. etc.
+.Processor - Made columns for Name of the Processor, Type of the Processor, Generation. 
+
+There are some more columns like - GPU ,Opys(operating system) etc.
 
 # Data Preprocessing:-
 There are a few columns which are categorical and convert them into numerical type by OneHotEncoder.
