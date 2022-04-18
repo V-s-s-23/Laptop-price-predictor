@@ -1,5 +1,6 @@
 # Laptop-price-predictor/Regression based model:-
 -> Build a model that predicts the price of the laptop given the configurations.
+
 -> using Linear, Lasso, and Random Forest Regressors to get the best model.
 
 # Feature Engineering:- 
